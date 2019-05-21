@@ -9,3 +9,9 @@ def batch_badge_creator(array_of_names)
   end
   new_array
 end
+
+def assign_rooms(list_of_speakers)
+  new_array = []
+  list_of_speakers.each_with_index do |speaker, index|
+    
+end
