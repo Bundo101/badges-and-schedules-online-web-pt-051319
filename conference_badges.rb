@@ -18,6 +18,6 @@ def assign_rooms(list_of_speakers)
   new_array
 end
 
-def printer
-  
+def printer(array_of_names)
+  # array_of_names
 end
